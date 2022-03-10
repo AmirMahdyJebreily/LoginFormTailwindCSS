@@ -843,6 +843,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   .sm\:p-5 {
     padding: 1.25rem;
   }
+
+  .sm\:py-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .sm\:px-3 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
 }
 
 @media (min-width: 768px) {

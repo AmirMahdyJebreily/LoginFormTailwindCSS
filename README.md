@@ -1,6 +1,9 @@
 # Login Form With TailwindCSS
 a reponsive login form with tailwind css.  
-on desktop :  
+see preview in https://amirmahdyjebreily.github.io/LoginFormTailwindCSS/  
+
+on desktop : 
+
 ![responsivetailwindcssloginform](/assets/img/Desktop.png "Desktop responsive")
   
 on mobile :  
